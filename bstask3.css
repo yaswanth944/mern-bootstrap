@@ -1,0 +1,22 @@
+.navbar {
+  background-color: #f8f9fa; /* Light background color */
+}
+
+.navbar-dark .navbar-brand {
+  color: #343a40; /* Dark text color */
+}
+
+.navbar-nav .nav-link {
+  color: #343a40; /* Dark text color */
+}
+
+.btn-primaryy {
+  border-color: #007bff; /* Set primary border color */
+  background-color: transparent; /* Remove background color */
+  color: #007bff;
+}
+hr {
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
